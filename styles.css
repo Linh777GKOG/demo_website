@@ -129,7 +129,7 @@
     font-size: 1.6rem;
   }
 
-   #navbar__logo {
+  #navbar__logo {
     padding-left: 25px;
   }
 
@@ -154,4 +154,13 @@
 
   .navbar__btn {
     padding-bottom: 2rem;
+  }
+
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 80px;
+    margin: 0;
   }
